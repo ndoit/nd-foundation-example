@@ -1,6 +1,8 @@
 # README
 
-The purpose of this project is to provide Notre Dame branded styles for [Zurb Foundation](http://foundation.zurb.com/). To get started, check out [http://foundation.zurb.com/docs](http://foundation.zurb.com/docs).
+The purpose of this project is to provide Notre Dame branded styles for [Zurb Foundation](http://foundation.zurb.com/). To get started with Foundation 5, check out [http://foundation.zurb.com/docs](http://foundation.zurb.com/docs).
+
+To use this code create a new rails application and copy the files you need from this example into your new project.
 
 ## Brand Bar
 
